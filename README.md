@@ -1,4 +1,4 @@
-# AARI-Andino: ROS 2 bring-up notes (Summer 2026)
+# AARI-Andino: Notes (Summer 2026)
 
 Notes from the Atlanta AI & Robotics Initiative (AARI) robotics cohort's build of
 Ekumen's open-source Andino robot (Raspberry Pi 4, Arduino Nano, ROS 2 Humble).
